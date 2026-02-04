@@ -1,0 +1,26 @@
+{
+    "mhyn": {
+        "password": "123",
+        "level": 2,
+        "exp": 100,
+        "gold": 90599,
+        "hp_max": 500,
+        "skills": [
+            "dam_nhe",
+            "kame",
+            "genki",
+            "teleport"
+        ],
+        "skins": [
+            "default",
+            "goku",
+            "black",
+            "frieza",
+            "vegeta"
+        ],
+        "current_skin": "#0000FF",
+        "used_codes": [
+            "THUYTRWS"
+        ]
+    }
+}
